@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 **Updated on: [date]**
 
@@ -10,15 +10,15 @@ Thank you for playing our games! This Privacy Policy describes:
 
 This Privacy Policy applies to Funmun's games, websites, and related services, which we here collectively call the Service. We may periodically update this Privacy Policy by posting a new version on [**https://www.funmungames.com/**](https://www.funmungames.com/). If we make any material changes, we will notify you by posting a notice in the Service prior to the change becoming effective. Your continued use of the Service after the effective date will be subject to the new Privacy Policy.
 
-## The data we collect
+### The data we collect
 
-### Data you may provide us.
+#### Data you may provide us.
 
 - Contact information (such as name and email address)
 - Play profile information, such as password
 - Other data you choose to give us (such as data to identify a lost account, social media information via login with third party platforms)
 
-### Data we collect automatically.
+#### Data we collect automatically.
 
 - Data about your account and game progress
 - Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
@@ -27,7 +27,7 @@ This Privacy Policy applies to Funmun's games, websites, and related services, w
 - General location data
 - Data about your use of the Service, such as gameplay data
 
-### Data we collect from our partners.
+#### Data we collect from our partners.
 
 - Data we receive if you link a third party tool with the Service (such as Facebook, WeChat or Google)
 - Demographic data (such as to determine the coarse location of your IP address)
@@ -35,9 +35,9 @@ This Privacy Policy applies to Funmun's games, websites, and related services, w
 - Data from platforms that the games run on (such as to verify payment)
 - Data for advertising and analytics purposes, so we can provide you a better Service
 
-## Why do we collect your data
+### Why do we collect your data
 
-### To make the Service work.
+#### To make the Service work.
 
 To perform the contract, we process data necessary to
 
@@ -47,7 +47,7 @@ To perform the contract, we process data necessary to
 - Provide and deliver products and services you request
 - Send you Service-related communications
 
-### To make the Service more suitable for our players.
+#### To make the Service more suitable for our players.
 
 To provide a great Service to our players, we have a legitimate interest to collect and process necessary data to
 
@@ -59,14 +59,14 @@ To provide a great Service to our players, we have a legitimate interest to coll
 - Provide you Funmun offers in the Service as well as in other websites and services, and by email
 - Send you related information, such as updates, security alerts, and support messages
 
-### To show personalized advertisements.
+#### To show personalized advertisements.
 
 To show you personalized advertisements in the Service as well as in other websites and services (including email) we have a legitimate interest to process necessary data to
 
 - Track the content you access in connection with the Service and your online behavior
 - Deliver, target and improve our advertising and the Service
 
-### To keep the Service safe and fair.
+#### To keep the Service safe and fair.
 
 Ensuring a level playing field in the Service is a top priority for us. For more information on our acceptable use policy, see the Funmun Terms of Service.
 
@@ -75,48 +75,48 @@ In order to keep the Service and its social features safe and fair, to fight fra
 - Analyze and monitor use of the Service
 - Take action against fraudulent or misbehaving players
 
-### To analyze, profile, and segment.
+#### To analyze, profile, and segment.
 
 In all of the above cases and purposes, we may analyze, profile and segment all collected data.
 
-## Who can see your data
+### Who can see your data
 
 Apart from Funmun, your data can be accessed by others in the following situations:
 
-## Partners working for Funmun.
+### Partners working for Funmun.
 
 Funmun has partners to perform services for us. These partners process your data only at and according to Funmun´s instructions to provide the Service, such as hosting, player support, advertising, analytics and fraud prevention.
 
-### Other companies and public authorities.
+#### Other companies and public authorities.
 
 In order to combat fraud and illegal activity, we may exchange data with other companies and organizations and provide it to public authorities in response to lawful requests.
 
 We may also disclose your data based on your consent, to comply with the law or to protect the rights, property or safety of us, our players or others.
 
-## YOUR RIGHTS AND OPTIONS
+### YOUR RIGHTS AND OPTIONS
 
-### Opt-out of marketing emails and other direct marketing.
+#### Opt-out of marketing emails and other direct marketing.
 
 You may opt-out of receiving promotional communications, such as marketing emails from us by following the instructions in such communications. You may opt out of mobile notifications using the settings on your mobile device.
 
-### Access the personal data we hold about you.
+#### Access the personal data we hold about you.
 
 If there is a change to your personal information, or you no longer desire our Service, you may edit, update, or delete the data by making the change within your account settings in the game, by contacting the Support team's email (can also be found in our products) or by contacting us at [support@funmun.com](mailto:support@funmun.com). We will provide you a copy of your personal information in an electronic format upon request.
 
-## Cookies and similar technologies
+### Cookies and similar technologies
 
 Like most online services, we and our partners use cookies and similar technologies to provide and personalize the Service, analyze use, target advertisements and prevent fraud. You can disable cookies in your browser settings, but some parts of the Service may then not function properly.
 
-## How do we protect your data
+### How do we protect your data
 
-### Security Safeguards.
+#### Security Safeguards.
 
 In order to help ensure a secure and safe player experience, we are continuously developing and implementing administrative, technical and physical security measures to protect your data from unauthorized access or against loss, misuse or alteration.
 
-### Data retention.
+#### Data retention.
 
 We retain your data for as long as your account is active or as needed to provide you the Service. We will for example periodically de-identify unused game accounts and we regularly review and de-identify unnecessary data. Note that if you ask us to remove your personal data, we will retain your data as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Age limits
+### Age limits
 
 We do not knowingly collect or solicit personal data about or direct or target interest-based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. If you are under 13, please do not send any data about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal data. If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. If you believe that we might have any data from or about a child under the age of 13, please contact us.
