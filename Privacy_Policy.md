@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-**Updated on: [date]**
+**Updated on: November 13, 2023**
 
 Thank you for playing our games! This Privacy Policy describes:
 
