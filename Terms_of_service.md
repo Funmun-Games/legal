@@ -1,6 +1,6 @@
 ## TERMS OF SERVICE
 
-‍ _Effective Date: February 24, 2023_
+‍ _Effective Date: November 13, 2023_
 
 The terms of this agreement ("Terms of Service") govern the relationship between you and Funmun LLC (hereinafter "Funmun" or "Us" or "We") regarding your use of Funmun's games, the website [**https://www.Funmungames.com/**](https://www.Funmungames.com/), and related services (the "Service"). Use of the Service is also governed by Funmun's Privacy Policy and other relevant policies, which are incorporated herein by reference.
 
