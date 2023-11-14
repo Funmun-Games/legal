@@ -1,3 +1,4 @@
+
 ## Privacy Policy
 
 **Updated on: November 13, 2023**
@@ -20,8 +21,8 @@ This Privacy Policy applies to Funmun's games, websites, and related services, w
 
 #### Data we collect automatically.
 
-- Data about your account and game progress
-- Your IP address and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI)
+- Data about your game progress
+- Your IP address
 - Data about your device, such as device name and operating system, browser type and language
 - Data we collect with cookies and similar technologies (see more below)
 - General location data
@@ -41,7 +42,6 @@ This Privacy Policy applies to Funmun's games, websites, and related services, w
 
 To perform the contract, we process data necessary to
 
-- Create accounts and allow you to play our games and use our Service
 - Operate the Service
 - Verify and confirm payments
 - Provide and deliver products and services you request
@@ -101,7 +101,7 @@ You may opt-out of receiving promotional communications, such as marketing email
 
 #### Access the personal data we hold about you.
 
-If there is a change to your personal information, or you no longer desire our Service, you may edit, update, or delete the data by making the change within your account settings in the game, by contacting the Support team's email (can also be found in our products) or by contacting us at [support@funmun.com](mailto:support@funmun.com). We will provide you a copy of your personal information in an electronic format upon request.
+If you no longer desire our Service, you may delete the data by contacting the Support team's email (can also be found in our products) [support@funmun.com](mailto:support@funmun.com). We will provide you a copy of your personal information in an electronic format upon request.
 
 ### Cookies and similar technologies
 

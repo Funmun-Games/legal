@@ -2,7 +2,7 @@
 
 ‍ _Effective Date: November 13, 2023_
 
-The terms of this agreement ("Terms of Service") govern the relationship between you and Funmun LLC (hereinafter "Funmun" or "Us" or "We") regarding your use of Funmun's games, the website [**https://www.Funmungames.com/**](https://www.Funmungames.com/), and related services (the "Service"). Use of the Service is also governed by Funmun's Privacy Policy and other relevant policies, which are incorporated herein by reference.
+The terms of this agreement ("Terms of Service") govern the relationship between you and Funmun LLC (hereinafter "Funmun" or "Us" or "We") regarding your use of Funmun's games, the website [**https://www.funmungames.com/**](https://www.funmungames.com/), and related services (the "Service"). Use of the Service is also governed by Funmun's Privacy Policy and other relevant policies, which are incorporated herein by reference.
 
 Before accessing or using the Service, including browsing the Funmun website or accessing a game, you must agree to these Terms of Service and the Privacy Policy. You may also be required to register an account on the Service (an "Account"). By registering for an Account or otherwise using the Service, you represent that you are age 13 or older.
 
